@@ -9,7 +9,7 @@ import java.util.ArrayList;
 /*
  * Opracuj interfejs z obszarem rysowania (np. JPanel). Dodaj obsługę zdarzeń klawiatury tak, aby:
  *  Po naciśnięciu klawisza, zmieniał się kształt lub kolor figury na obszarze rysowania.
- *  Po zwolnieniu klawisza, powracał do poprzedniego kształtu lub koloru.
+ *  Po zwolnieniu klawisza powracał do poprzedniego kształtu lub koloru.
  *  Po wykorzystaniu klawiszy specjalnych, np. Shift lub Ctrl, zmieniały się inne właściwości wybranej figury
  *      (np. przejście z kształtu prostokąta na owal).
  */

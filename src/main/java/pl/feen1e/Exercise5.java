@@ -8,9 +8,9 @@ import java.awt.event.MouseEvent;
 /*
  * Stwórz interfejs z obszarem rysowania (np. JPanel). Dodaj obsługę zdarzeń myszy tak, aby:
  *  Po najechaniu kursorem na obszar rysowania, wyświetlano informację w konsoli.
- *  Po opuszczeniu obszaru rysowania kursorem, wyświetlano inną informację w konsoli.
- *  Po naciśnięciu i zwolnieniu przycisku myszy, wyświetlano komunikat w konsoli.
- *  Po użyciu kółka myszy, zmieniano rozmiar wybranej figury na obszarze rysowania.
+ *  Po opuszczeniu obszaru rysowania kursorem wyświetlano inną informację w konsoli.
+ *  Po naciśnięciu i zwolnieniu przycisku myszy wyświetlano komunikat w konsoli.
+ *  Po użyciu kółka myszy zmieniano rozmiar wybranej figury na obszarze rysowania.
  */
 public class Exercise5 extends JFrame
 {

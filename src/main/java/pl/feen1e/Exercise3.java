@@ -9,7 +9,7 @@ import java.util.List;
 
 /*
  * Stwórz interfejs z obszarem rysowania (np. JPanel) i narysuj kilka prostych figur.
- * Po kliknięciu na figurę, zarejestruj czas od kliknięcia, a po kolejnym kliknięciu przesuń figurę
+ * Po kliknięciu figury zarejestruj czas od kliknięcia, a po kolejnym kliknięciu przesuń figurę
  * w nowe położenie z uwzględnieniem czasu, jaki upłynął od poprzedniego kliknięcia.
  */
 public class Exercise3 extends JFrame
